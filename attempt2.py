@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from random import randint,choice
-from queue import PriorityQueue
-import copy
+from copy import copy as ShallowCopy
 
 test_bindings = [('Team A', 'Event A'), ('Team B', 'Event A'), ('Team C', 'Event A'),
             ('Team A', 'Event B'), ('Team B', 'Event B'), ('Team C', 'Event B'),
@@ -118,7 +117,7 @@ class Chromosome:
                         self.times[time2].append(team2)
             self.schedule = new_sched
         elif(strategy == 'RAND'):
-            new_sched = self.parent.schedule
+            new_sched = ShallowCopy(self.parent.schedule)
 
             #Choose N(size) of from second parent to put into first parent
             for i in range(size):
@@ -128,15 +127,14 @@ class Chromosome:
                 val_one = new_sched[rand_key_one]
                 val_two = self.parent_two.schedule[rand_key_two]
 
-                new_sched[rand_key_two] = val_one
-                self.parent_two.schedule[rand_key_one] = val_two
+                self.schedule[rand_key_two] = val_one
+                self.schedule[rand_key_one] = val_two
 
             self.schedule = new_sched
             self.rebuild_times_from_sched()
 
 
 
-        pass
 
 
     def mutate(self, size=1, strategy='INTELLIGENT'):
@@ -212,9 +210,13 @@ class ScheduleGenerator:
             rand_parent_one = parents[randint(0,len(parents)-1)]
             rand_parent_two = parents[randint(0,len(parents)-1)]
             new_chromosome = Chromosome(init.bindings, rand_parent_one,rand_parent_two)
-            new_chromosome.crossover()
             mt = (58 - best_fitness) // 2
-            new_chromosome.mutate(mt)
+            new_chromosome.crossover(mt)
+            strategy = 'RAND'
+            if(best_fitness > len(self.bindings) - 2):
+                strategy = 'INTELLIGENT'
+
+            new_chromosome.mutate(mt,strategy)
             fitness = new_chromosome.get_fitness()
             print('Best: '+str(best_fitness))
 #            print('--------')
@@ -226,6 +228,7 @@ class ScheduleGenerator:
             #print(parents)
 
         parents[0].print_sched()
+
 
 
 
