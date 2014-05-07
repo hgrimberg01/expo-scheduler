@@ -68,11 +68,11 @@ class Chromosome:
 
         for team_tuple, slot in self.schedule.items():
             for team_tuple2, slot2 in self.schedule.items():
-                if team_tuple[0] == team_tuple2[0] and slot == slot2:
+                if team_tuple[0] == team_tuple2[0] and slot == slot2 and not team_tuple[1] == team_tuple2[1]:
                     team_conflict = True
+                    break;
                 else:
                     fitness += 1
-
 
 
         return fitness
@@ -151,12 +151,11 @@ class Chromosome:
             for i,r in enumerate(self.times):
                 if(len(r) > NUMBER_PER_SLOT):
                     reloc = r[NUMBER_PER_SLOT:]
-                    r = r[:NUMBER_PER_SLOT]
+                    self.times[i] = r[:NUMBER_PER_SLOT]
                     for mv in reloc:
-
-                        self.schedule[mv] = self.find_open_slot()
-
-                        self.rebuild_times_from_sched()
+                        open_slot = self.find_open_slot()
+                        self.schedule[mv] = open_slot
+                        self.times[open_slot].append(mv)
 
 
 
@@ -201,23 +200,25 @@ class ScheduleGenerator:
             parents.insert(0, init2)
             parents.append(init)
 
-        ideal_fitness = (len(self.bindings) ** 2)
-        while (best_fitness < ideal_fitness):
-            rand_parent_one = parents[randint(1,len(parents))-1]
+        runs = 0
+        ideal_fitness = (len(self.bindings) ** 2) + len(self.bindings)
+        while (best_fitness < ideal_fitness ):
+            #rand_parent_one = parents[randint(1,len(parents))-1]
+            rand_parent_one = parents[0]
             rand_parent_two = parents[randint(1,len(parents))-1]
             new_chromosome = Chromosome(init.bindings, rand_parent_one,rand_parent_two)
-            mt = math.ceil((len(self.bindings) - best_fitness) / 2)
+            mt = math.floor((len(self.bindings) - best_fitness) / 2)
             if(mt <= 0):
                 mt = 1
             #print(str(mt))
             new_chromosome.crossover(mt)
             strategy = 'RAND'
-            if(best_fitness >= round( ideal_fitness * 0.85) ):
+            if(best_fitness >= round( ideal_fitness * 0.87)  ):
                 strategy = 'INTELLIGENT'
             gens += 1
             new_chromosome.mutate(mt,strategy)
             fitness = new_chromosome.get_fitness()
-           # print('Best: '+str(best_fitness))
+            #print('Best: '+str(best_fitness))
            # print('--------')
            # new_chromosome.print_sched()
             if(fitness >= best_fitness):
