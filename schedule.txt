@@ -1,0 +1,222 @@
+                               Team                Event       Time
+----------------------------------------------------------------------------------------
+                               ASAP|    Indoor Catapults|  10:05 AM
+                               ASAP|        Water Rocket|  10:40 AM
+                           Bad News|        Pasta Bridge|  11:30 AM
+                       Bahama Slugs|             Archery|  10:00 AM
+               Central Pasta Bridge|        Pasta Bridge|  10:35 AM
+                  Colorado Egg Drop|            Egg Drop|  11:15 AM
+                            Cougars|             Archery|  09:20 AM
+                     Cure 8th Grade|             Archery|  09:40 AM
+                     Cure 8th Grade|         LEED Design|  11:20 AM
+                     Cure 8th Grade|          Skyscraper|  10:10 AM
+                     Cure 8th Grade|       Water Finding|  01:35 PM
+                           Cure Can|        Chemical Car|  11:30 AM
+                           Cure Can|            Drilling|  10:20 AM
+                           Cure Can|            Egg Drop|  10:40 AM
+                           Cure Can|         LEED Design|  11:20 AM
+                           Cure Can|          Mindstorms|  11:45 AM
+                           Cure Can|       Rube Goldberg|  12:15 PM
+                           Cure Can|       Water Finding|  10:45 AM
+                           Cure Can|        Water Rocket|  09:10 AM
+                   Cure Computators| Battery Powered Car|  12:55 PM
+                   Cure Computators|            Egg Drop|  12:30 PM
+                   Cure Computators|        Pasta Bridge|  12:40 PM
+                   Cure Computators|             Sailing|  10:35 AM
+                   Cure Computators|          Skyscraper|  10:40 AM
+                   Cure Computators|       Water Finding|  11:25 AM
+                   Cure Computators|        Water Rocket|  09:20 AM
+                   Cure Computators|      Weight Lifting|  10:50 AM
+                  Cure Kindergarten|            Egg Drop|  01:00 PM
+                  Cure Kindergarten|         LEED Design|  11:20 AM
+                  Cure Kindergarten|        Pasta Bridge|  10:25 AM
+                  Cure Kindergarten|             Sailing|  10:05 AM
+                  Cure Kindergarten|          Skyscraper|  09:15 AM
+                  Cure Kindergarten|           Trebuchet|  11:30 AM
+                  Cure Kindergarten|       Water Finding|  09:45 AM
+            Cure of Ars Competitors|       Rube Goldberg|  09:25 AM
+                  Cure' 1st Graders|             Archery|  11:05 AM
+                  Cure' 1st Graders|            Egg Drop|  12:25 PM
+                  Cure' 1st Graders|        Pasta Bridge|  12:35 PM
+                  Cure' 1st Graders|       Water Finding|  10:00 AM
+                  Cure' 1st Graders|        Water Rocket|  09:20 AM
+                  Cure' 1st Graders|      Weight Lifting|  10:25 AM
+                              D. M.|             Archery|  09:50 AM
+                              D. M.|            Drilling|  11:35 AM
+                              D. M.|            Egg Drop|  12:35 PM
+                              D. M.|    Indoor Catapults|  10:20 AM
+                              D. M.|        Pasta Bridge|  11:30 AM
+                              D. M.|             Sailing|  09:10 AM
+                              D. M.|          Skyscraper|  01:00 PM
+                              D. M.|       Water Finding|  09:00 AM
+                              D. M.|        Water Rocket|  12:15 PM
+                     Dalton & Jacob|        Pasta Bridge|  01:50 PM
+                   David & Jennifer|        Pasta Bridge|  10:10 AM
+                              Dawgs|       Rube Goldberg|  09:15 AM
+                     Dragon Slayers|           Trebuchet|  12:20 PM
+                 Dujakovich-Johnson|        Pasta Bridge|  11:45 AM
+                          Egg Heads|            Egg Drop|  12:50 PM
+                        Emma Herynk|           Trebuchet|  09:30 AM
+                  Essence de Egbert|        Pasta Bridge|  12:45 PM
+             Flingy Blingy Machines|    Indoor Catapults|  10:10 AM
+                      Flying Squids| Battery Powered Car|  10:20 AM
+                     Gage & Nandita|        Pasta Bridge|  11:05 AM
+                         Girl Power|             Archery|  11:55 AM
+                         Girl Power| Battery Powered Car|  11:15 AM
+                         Girl Power|            Egg Drop|  10:55 AM
+                         Girl Power|    Indoor Catapults|  11:40 AM
+                         Girl Power|       Rube Goldberg|  12:00 PM
+                         Girl Power|           Trebuchet|  12:05 PM
+                            Grade 6|             Archery|  10:15 AM
+                            Grade 6| Battery Powered Car|  09:15 AM
+                            Grade 6|        Chemical Car|  10:25 AM
+                            Grade 6|            Drilling|  10:30 AM
+                            Grade 6|            Egg Drop|  12:45 PM
+                            Grade 6|             Sailing|  09:05 AM
+                            Grade 6|          Skyscraper|  01:30 PM
+                            Grade 6|       Water Finding|  10:55 AM
+                            Grade 6|        Water Rocket|  12:25 PM
+                            Grade 6|      Weight Lifting|  12:40 PM
+                        Grayson BHS|        Chemical Car|  09:35 AM
+                      HMS Trebuchet|           Trebuchet|  12:15 PM
+                       Happy Flappy|        Pasta Bridge|  10:30 AM
+                    Herbers-Playter|             Archery|  11:00 AM
+                       Hollow Trees|        Pasta Bridge|  12:10 PM
+                        Impastables|        Pasta Bridge|  01:05 PM
+                      It's Pastable|        Pasta Bridge|  11:35 AM
+  Jackson Heights Elementary School|            Egg Drop|  01:20 PM
+  Jackson Heights Elementary School|             Sailing|  01:50 PM
+                        Jake & Zach|        Pasta Bridge|  11:05 AM
+                       Joel Goering| Battery Powered Car|  10:40 AM
+                       Joel Goering|           Trebuchet|  12:55 PM
+                        Joey & Zach|        Pasta Bridge|  11:35 AM
+                      Joey Lambertz|        Pasta Bridge|  12:15 PM
+                              K3BHg|        Pasta Bridge|  11:25 AM
+                          Katie BHS|       Water Finding|  01:20 PM
+                       KimPastaBowl|        Pasta Bridge|  11:50 AM
+                      Kort Mattison|            Drilling|  09:10 AM
+                                MBM|            Egg Drop|  01:50 PM
+                                MBM|        Pasta Bridge|  11:15 AM
+                                MBM|             Sailing|  09:20 AM
+                                MBM|          Skyscraper|  10:50 AM
+                       Men in Black|        Chemical Car|  11:40 AM
+                      Men of Sticks|          Skyscraper|  10:10 AM
+              Mexican Body Builders|            Egg Drop|  09:55 AM
+              Mexican Body Builders|         Gravity Car|  12:05 PM
+              Mexican Body Builders|    Indoor Catapults|  12:00 PM
+                       Mind Benders|             Archery|  11:00 AM
+                       Mind Benders|            Egg Drop|  09:25 AM
+                       Mind Benders|          Mindstorms|  09:50 AM
+                       Mind Benders|        Pasta Bridge|  11:45 AM
+                       Mind Benders|       Water Finding|  10:05 AM
+                       Mind Benders|        Water Rocket|  11:40 AM
+                     Molly Peterson|        Pasta Bridge|  01:15 PM
+                           Monsters|          Skyscraper|  10:05 AM
+                   Ms. William Tell|             Archery|  10:45 AM
+                               Next|        Pasta Bridge|  09:30 AM
+                      Ninja Bubbles|             Archery|  11:40 AM
+                      Ninja Bubbles| Battery Powered Car|  01:05 PM
+                      Ninja Bubbles|            Egg Drop|  12:25 PM
+                      Ninja Bubbles|          Skyscraper|  12:10 PM
+                        Obliterator|        Pasta Bridge|  09:55 AM
+                     Olivia Medrano|       Rube Goldberg|  10:00 AM
+                     Phillip Aragon|        Water Rocket|  10:20 AM
+                 Prestige Worldwide|        Pasta Bridge|  11:25 AM
+                                RJH|         Gravity Car|  09:00 AM
+                                RMS|         Gravity Car|  10:15 AM
+                  RVES Pasta Bridge|        Pasta Bridge|  09:45 AM
+                    RVHS Mindstorms|          Mindstorms|  09:05 AM
+                    RVMS Mindstorms|          Mindstorms|  12:35 PM
+                        Raina Peter|          Skyscraper|  09:05 AM
+                                SMG|    Indoor Catapults|  10:50 AM
+                               SMHS|        Pasta Bridge|  09:35 AM
+          Sabetha Elementary School|            Egg Drop|  01:45 PM
+          Sabetha Elementary School|          Mindstorms|  12:25 PM
+          Sabetha Elementary School|        Pasta Bridge|  01:35 PM
+       Science Addicted Teens (SAT)|            Egg Drop|  12:10 PM
+        Serious About Science (SAS)|           Trebuchet|  12:20 PM
+                           Skylines|          Skyscraper|  01:35 PM
+                            Sliders|         Gravity Car|  12:05 PM
+                         Smarticles|        Chemical Car|  09:40 AM
+                        Speed Racer|         Gravity Car|  11:50 AM
+                     Speedy Smokers|        Chemical Car|  12:55 PM
+                           Star E's|            Egg Drop|  09:50 AM
+                      Storm Chasers|            Egg Drop|  09:55 AM
+                         Stunt Eggs|            Egg Drop|  11:55 AM
+                            Support|          Skyscraper|  09:15 AM
+                          TAJ Mahal|        Pasta Bridge|  01:20 PM
+                      Team Beta BHS|          Skyscraper|  10:15 AM
+                      Team Dynamite|        Pasta Bridge|  10:55 AM
+                        Team Edward|        Pasta Bridge|  01:25 PM
+                          Team Fire|       Water Finding|  12:30 PM
+                         Team Jacob|        Pasta Bridge|  01:40 PM
+                       Team Winning|        Pasta Bridge|  11:10 AM
+                     The Big Bricks| Battery Powered Car|  10:45 AM
+                     The Big Bricks|         Gravity Car|  11:35 AM
+                     The Big Bricks|          Skyscraper|  09:05 AM
+                         The Blades|             Archery|  12:00 PM
+                         The Blades|            Drilling|  10:00 AM
+                         The Blades|            Egg Drop|  01:50 PM
+                         The Blades|         Gravity Car|  12:20 PM
+                         The Blades|             Sailing|  12:55 PM
+                         The Blades|          Skyscraper|  09:45 AM
+                         The Blades|       Water Finding|  10:25 AM
+                         The Blades|        Water Rocket|  01:20 PM
+                          The Brick|        Pasta Bridge|  01:40 PM
+                    The COA Cougars|            Egg Drop|  10:50 AM
+                    The COA Cougars|         Gravity Car|  09:25 AM
+                    The COA Cougars|          Mindstorms|  09:40 AM
+                 The Canadian Bears|             Archery|  09:35 AM
+                 The Canadian Bears|        Chemical Car|  10:15 AM
+                 The Canadian Bears|            Egg Drop|  01:00 PM
+                 The Canadian Bears|         Gravity Car|  11:50 AM
+                 The Canadian Bears|    Indoor Catapults|  11:55 AM
+                 The Canadian Bears|         LEED Design|  09:30 AM
+                 The Canadian Bears|          Mindstorms|  09:10 AM
+                 The Canadian Bears|        Pasta Bridge|  12:40 PM
+                 The Canadian Bears|          Skyscraper|  12:30 PM
+                 The Canadian Bears|        Water Rocket|  09:00 AM
+                 The Canadian Bears|      Weight Lifting|  01:55 PM
+                     The Destroyers|        Pasta Bridge|  10:30 AM
+                     The Illuminati|        Pasta Bridge|  01:45 PM
+          The Incredible Edible Egg|            Egg Drop|  09:30 AM
+                    The Lingwinners|        Pasta Bridge|  01:40 PM
+                        The Mission|        Pasta Bridge|  11:05 AM
+                      The Olympians|             Archery|  11:55 AM
+                      The Olympians|         LEED Design|  11:00 AM
+                      The Olympians|          Mindstorms|  11:10 AM
+                      The Olympians|        Pasta Bridge|  09:00 AM
+                      The Olympians|             Sailing|  01:10 PM
+                      The Olympians|          Skyscraper|  12:45 PM
+                      The Olympians|       Water Finding|  09:50 AM
+                      The Olympians|      Weight Lifting|  11:45 AM
+                   The Pasta Mastaz|        Pasta Bridge|  12:35 PM
+              The Rapid Road Runner|         Gravity Car|  09:25 AM
+     The Razmadazle of Fatanzmagzle|        Pasta Bridge|  10:55 AM
+              The Thing that Flings|    Indoor Catapults|  01:00 PM
+                      Triple Threat|             Archery|  10:30 AM
+                      Triple Threat|            Drilling|  10:35 AM
+                      Triple Threat|            Egg Drop|  12:05 PM
+                      Triple Threat|         LEED Design|  09:35 AM
+                      Triple Threat|          Mindstorms|  11:20 AM
+                      Triple Threat|          Skyscraper|  11:50 AM
+                      Triple Threat|       Water Finding|  09:45 AM
+                      Truss Masters|        Pasta Bridge|  12:40 PM
+                     Tyler Hausthor|            Egg Drop|  11:10 AM
+                       Unbreakables|            Egg Drop|  12:10 PM
+                           Untitled|            Egg Drop|  12:20 PM
+                           Untitled|          Mindstorms|  12:00 PM
+                         Wild Bears|             Archery|  01:35 PM
+                         Wild Bears|        Chemical Car|  10:45 AM
+                         Wild Bears|            Egg Drop|  10:35 AM
+                         Wild Bears|         LEED Design|  11:15 AM
+                         Wild Bears|          Mindstorms|  11:10 AM
+                         Wild Bears|        Pasta Bridge|  01:25 PM
+                         Wild Bears|             Sailing|  09:40 AM
+                         Wild Bears|          Skyscraper|  09:55 AM
+                         Wild Bears|       Water Finding|  11:25 AM
+                         Wild Bears|        Water Rocket|  11:00 AM
+                         Wild Bears|      Weight Lifting|  12:30 PM
+----------------------------------------------------------------------------------------
+COUNTS:
+{0: 5, 1: 5, 2: 5, 3: 5, 4: 5, 5: 5, 6: 5, 7: 5, 8: 5, 9: 5, 10: 5, 11: 5, 12: 5, 13: 5, 14: 5, 15: 5, 16: 5, 17: 5, 18: 5, 19: 5, 20: 5, 21: 5, 22: 5, 23: 5, 24: 5, 25: 5, 26: 5, 27: 5, 28: 5, 29: 5, 30: 5, 31: 5, 32: 5, 33: 5, 34: 5, 35: 5, 36: 5, 37: 5, 38: 5, 39: 5, 40: 5, 41: 5, 42: 5, 43: 5, 44: 5, 45: 4, 46: 2, 47: 5, 48: 5, 49: 3, 50: 2, 51: 2, 52: 5, 53: 3, 54: 2, 55: 5, 56: 4, 57: 3, 58: 5, 59: 2}
