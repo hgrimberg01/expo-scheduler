@@ -1,0 +1,16 @@
+Howard Grimberg - 2435507
+EECS 649 – Intro to Artificial Intelligence
+22-04-2013
+Project Description
+
+	Every year, the School of Engineering hosts Engineering EXPO to showcase the various activities all engineering majors to thousands of K-12 students and the general public. The intent of EXPO is to advertise Engineering programs at KU for prospective students of all ages. EXPO consists of displays and engineering-themed competitions for K-12 students. Teachers register teams over the course of the preceding months. The students arrive and are handed schedules for what competitions they should be at and when. The students use the rest of the time to explore the displays under the guidance of a chaperon.
+
+	Currently, there is a system in place to handle registrations and scoring. However, scheduling is still done manually the night before with the hope that all teams will have a time and there will be no conflicts. Scheduling students manually is a very laborious and time consuming process. In addition, registrations have been known to change as late as the morning-of EXPO, which lessens the effectiveness of the schedule. Teams often don't show or are removed, but their time slot remains. Conversely, teams are often added by Teachers the morning of and there are late-arrivals.
+
+	The goal of the project is to implement a automated scheduling system that will produce a near-optimal master schedule of what team is at what event at what time. Given a time block, the events and event registrations, the algorithm with optimally partition time for each team. Moreover, each event has limited capacity. Thus, the algorithm must schedule teams with the additional constraint of limited capacity. The master schedule can then be formed into individual schedules (but that is out-of-scope of this project).
+
+	The project would use a number of different searching and planning algorithms. The A* search is the core of many higher-order search techniques. The PERT technique of project planning can be automated using simple graph searches. Logical deduction techniques as well as forward chaining solutions are other approaches. However, because of the temporal element of the problem not all techniques are applicable.  Ideally, the project will be completed in Python 2 to  make it very easy to integrate into existing production code. However, Racket can also be used, buts its not the ideal solution.
+
+	
+	
+
